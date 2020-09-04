@@ -1,12 +1,3 @@
-//fun addSomeNumbers(x: Int, y: Int): Int{
-//    return x + y
-//
-//}
-//
-//fun main(){
-//    var z = addSomeNumbers(2, 4)
-//    println(z)
-//}
 val pi = 3.14
 
 fun triangle(baseLength: Double, height: Double): Double{
